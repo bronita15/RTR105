@@ -13,3 +13,4 @@ whoami -> user name
 who -> users who are currently logged in
 ls -> list information about files
 pwd -> print the full filename of the current working directory
+nano -> script creating
