@@ -14,3 +14,6 @@ who -> users who are currently logged in
 ls -> list information about files
 pwd -> print the full filename of the current working directory
 nano -> script creating
+type > the result, for the type function, is the type of the argument
+max  min > gives the larges and the smallest values
+len > tells how many items in the argument
