@@ -1,0 +1,9 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  git clone https://github.com/bronita15/RTR105
+    4  ls -l
+    5  cd RTR105
+    6  ls -l
+    7  nano README.md
+    8  ls -l
+    9  history > history_20181015.txt

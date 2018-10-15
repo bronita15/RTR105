@@ -17,3 +17,10 @@ nano -> script creating
 type > the result, for the type function, is the type of the argument
 max  min > gives the larges and the smallest values
 len > tells how many items in the argument
+x != y               # x is not equal to y
+x > y                # x is greater than y
+x < y                # x is less than y
+x >= y               # x is greater than or equal to y
+x <= y               # x is less than or equal to y
+x is y               # x is the same as y
+x is not y           # x is not the same as y
