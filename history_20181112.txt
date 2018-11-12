@@ -1,0 +1,27 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  ls -l
+    4  git clone https://github.com/bronita15/RTR105
+    5  ls -l
+    6  /RTR105
+    7  cd /RTR105
+    8  RTR105
+    9  cd RTR105
+   10  idle
+   11  git clone https://github.com/bronita15/RTR105
+   12  get clone https://github.com/bronita15/RTR105
+   13  git clone https://github.com/bronita15/RTR105
+   14  ls -l
+   15  /RTR105
+   16  RTR105
+   17  cd /RTR105
+   18  cd RTR105
+   19  idle
+   20  ls -l
+   21  cd RTR105
+   22  ls -l
+   23  cd RTR105
+   24  idle
+   25  ls -l
+   26  idle
+   27  history > history_20181112.txt
