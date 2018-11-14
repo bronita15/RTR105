@@ -13,7 +13,7 @@ def my_exp(x):
     return (Decimal('1')-x*a)
     print(a,k,S)
 
-x = float(input("Lietotaj, ludzu ievadi argumentu (x): "))
+x = float(input("Lietotāj, lūdzu ievadi argumentu (x): "))
 print((Decimal('1') - X) * Decimal(math.exp(-X)))
 print(my_exp(X))
 
