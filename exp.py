@@ -11,6 +11,6 @@ def my_exp(x):
         S = S + a
         print(k,a,S)
 
-x = float(input("Lietotaj, ludzu ievadi argumentu (x): "))
+x = float(input("Lietotāj, lūdzu ievadi argumentu (x): "))
 y = my_exp(x)
 print(x,y)
