@@ -1,4 +1,3 @@
-from decimal import Decimal
 import math
 
 def my_exp(x):
@@ -9,7 +8,7 @@ def my_exp(x):
         k = k + 1
         a = a * (1-x)*((-1)**k*x**k/ (math.factorial(k)))
         S = S + a
-        print(k,a,S)
+        print(k,S)
 
 x = float(input("Lietotāj, lūdzu ievadi argumentu (x): "))
 y = my_exp(x)
