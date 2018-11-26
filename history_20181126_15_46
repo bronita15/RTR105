@@ -1,0 +1,6 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  GNUPLOT
+    4  gnuplot
+    5  dgr_20181126.py
+    6  history > history_20181126_15_46
