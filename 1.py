@@ -1,12 +1,13 @@
-from math import sin
+import math
 
-def mans_sinuss(x):
+def mans_exp(x):
     k = 0
-    a = (-1)**0*(x**1/(1)
-                 
-    while S - a < 0.01:
+    a = ((-1)**k*x**k)/k
+    x = float(input("Lietotaj, ludzu, ievadi argumentu (x): "))
+    
+    while k < 1000:
         k = k + 1
-        R = (-1)**k*(x**(2*k+1))/(2*k+1)
+        R = ((-1)**k*x**k)/k
         a = a * R
-        S = S + a
+        S = (1-x) * a
     print(S,a)
